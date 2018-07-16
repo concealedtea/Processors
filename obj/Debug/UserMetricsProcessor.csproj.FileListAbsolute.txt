@@ -1,0 +1,61 @@
+C:\Users\Julius\Desktop\RevenueChart\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\UserMetricsProcessor.exe.config
+C:\Users\Julius\Desktop\RevenueChart\UserMetricsProcessor\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Julius\Desktop\RevenueChart\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\UserMetricsProcessor.exe
+C:\Users\Julius\Desktop\RevenueChart\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\UserMetricsProcessor.pdb
+C:\Users\Julius\Desktop\RevenueChart\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\Npgsql.dll
+C:\Users\Julius\Desktop\RevenueChart\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Julius\Desktop\RevenueChart\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Julius\Desktop\RevenueChart\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\System.ValueTuple.dll
+C:\Users\Julius\Desktop\RevenueChart\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\Npgsql.pdb
+C:\Users\Julius\Desktop\RevenueChart\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\Npgsql.xml
+C:\Users\Julius\Desktop\RevenueChart\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Julius\Desktop\RevenueChart\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Julius\Desktop\RevenueChart\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\System.ValueTuple.xml
+C:\Users\Julius\Desktop\RevenueChart\UserMetricsProcessor\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.exe
+C:\Users\Julius\Desktop\RevenueChart\UserMetricsProcessor\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.pdb
+C:\Users\Julius\Desktop\RevenueChart\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Julius\Desktop\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\UserMetricsProcessor.exe.config
+C:\Users\Julius\Desktop\UserMetricsProcessor\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.exe
+C:\Users\Julius\Desktop\UserMetricsProcessor\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.pdb
+C:\Users\Julius\Desktop\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\UserMetricsProcessor.exe
+C:\Users\Julius\Desktop\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\UserMetricsProcessor.pdb
+C:\Users\Julius\Desktop\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Julius\Desktop\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\Npgsql.dll
+C:\Users\Julius\Desktop\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Julius\Desktop\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Julius\Desktop\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\System.ValueTuple.dll
+C:\Users\Julius\Desktop\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\Npgsql.pdb
+C:\Users\Julius\Desktop\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\Npgsql.xml
+C:\Users\Julius\Desktop\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Julius\Desktop\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Julius\Desktop\UserMetricsProcessor\UserMetricsProcessor\bin\Debug\System.ValueTuple.xml
+C:\Users\Julius\Desktop\UserMetricsProcessor\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.csprojResolveAssemblyReference.cache
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\bin\Debug\UserMetricsProcessor.exe.config
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.exe
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.pdb
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\bin\Debug\UserMetricsProcessor.exe
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\bin\Debug\UserMetricsProcessor.pdb
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\bin\Debug\Npgsql.dll
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\bin\Debug\System.ValueTuple.dll
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\bin\Debug\Npgsql.pdb
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\bin\Debug\Npgsql.xml
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\bin\Debug\System.ValueTuple.xml
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.csprojResolveAssemblyReference.cache
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\bin\Debug\UserMetricsProcessor.exe.manifest
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\bin\Debug\UserMetricsProcessor.application
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.exe.manifest
+C:\Spigot\Development\MetricsProcessor\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.application
+C:\Users\Julius\Desktop\MetricsTables\UserMetricsProcessor\bin\Debug\UserMetricsProcessor.exe.config
+C:\Users\Julius\Desktop\MetricsTables\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.exe
+C:\Users\Julius\Desktop\MetricsTables\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.pdb
+C:\Users\Julius\Desktop\Metric Processors\UserMetricsProcessor\bin\Debug\UserMetricsProcessor.exe.config
+C:\Users\Julius\Desktop\Metric Processors\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.exe
+C:\Users\Julius\Desktop\Metric Processors\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.pdb
+C:\Users\Julius\Desktop\Safe\Metric Processors\UserMetricsProcessor\bin\Debug\UserMetricsProcessor.exe.config
+C:\Users\Julius\Desktop\Safe\Metric Processors\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.exe
+C:\Users\Julius\Desktop\Safe\Metric Processors\UserMetricsProcessor\obj\Debug\UserMetricsProcessor.pdb
